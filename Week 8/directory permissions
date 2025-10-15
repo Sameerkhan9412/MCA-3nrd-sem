@@ -1,0 +1,33 @@
+CSD@DESKTOP-OFJQMRM MINGW64 /f/pd backup/mca/mca3/Week 8
+$ cd ..
+
+CSD@DESKTOP-OFJQMRM MINGW64 /f/pd backup/mca/mca3
+$ ls -l
+total 35488
+-rw-r--r-- 1 CSD 197121  3262636 Sep  3 10:14 '24CAMSA106 Lab_3.docx'
+-rw-r--r-- 1 CSD 197121  3822625 Sep  3 10:15 '24CAMSA106 Lab_3.pdf'
+-rw-r--r-- 1 CSD 197121  3267330 Sep  3 10:19 '24CAMSA107 Lab_3.docx'
+-rw-r--r-- 1 CSD 197121  3823503 Sep  3 10:20 '24CAMSA107 Lab_3.pdf'
+-rw-r--r-- 1 CSD 197121  3259723 Sep  4 11:05  24CAMSA135.docx
+-rw-r--r-- 1 CSD 197121  3824631 Sep  4 11:08  24CAMSA135.pdf
+-rw-r--r-- 1 CSD 197121  1652336 Jul 31 13:20 'lab manual mca 3.pdf'
+-rw-r--r-- 1 CSD 197121       72 Sep  3 09:56  Marks.data
+drwxr-xr-x 1 CSD 197121        0 Aug 22 08:14  python
+-rw-r--r-- 1 CSD 197121   466027 Sep 23 21:27 'QuickPost SRS PPT.pdf'
+-rw-r--r-- 1 CSD 197121 12325547 Sep 23 21:24 'QuickPost SRS PPT.pptx'
+-rw-r--r-- 1 CSD 197121   477228 Sep 18 15:47 'SRS - QuickPost.docx'
+-rw-r--r-- 1 CSD 197121    39904 Sep 17 10:54 'Use Case.pdf'
+drwxr-xr-x 1 CSD 197121        0 Aug 16 14:09 'Week 1'
+drwxr-xr-x 1 CSD 197121        0 Aug 16 14:09 'Week 2'
+drwxr-xr-x 1 CSD 197121        0 Aug 16 14:09 'Week 3'
+drwxr-xr-x 1 CSD 197121        0 Aug 16 14:09 'Week 4'
+drwxr-xr-x 1 CSD 197121        0 Aug 16 14:09 'Week 5'
+drwxr-xr-x 1 CSD 197121        0 Aug  8 09:19 'Week 6'
+drwxr-xr-x 1 CSD 197121        0 Sep  3 10:25 'Week 7'
+drwxr-xr-x 1 CSD 197121        0 Sep 25 10:00 'Week 8'
+
+CSD@DESKTOP-OFJQMRM MINGW64 /f/pd backup/mca/mca3
+$ chmod 755 python
+
+CSD@DESKTOP-OFJQMRM MINGW64 /f/pd backup/mca/mca3
+$ chmod a-x python
